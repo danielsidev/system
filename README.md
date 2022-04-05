@@ -1,1 +1,1 @@
-![alt text](https://github.com/[danielsidev]/[system]/blob/[main]/arquitetura.jpg?raw=true)
+![alt text](https://github.com/danielsidev/system/blob/main/arquitetura.jpg?raw=true)
